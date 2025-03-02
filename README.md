@@ -27,7 +27,7 @@ To fetch YouTube videos, you'll need an API key:
 ### **2️⃣ Clone the Repository**
 ```bash
 $ git clone https://github.com/Vishal2053/Personalize-Content-Search-Chrome-Extention.git
-$ cd youtube-search-extension
+$ cd Personalize-Content-Search-Chrome-Extention
 ```
 
 ### **3️⃣ Set Up Flask Backend**
