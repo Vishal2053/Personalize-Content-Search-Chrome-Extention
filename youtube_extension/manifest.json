@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Video Search",
+  "version": "1.0",
+  "description": "Search and display YouTube videos within a popup.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "storage"],
+  "host_permissions": ["https://www.googleapis.com/*"]
+}
